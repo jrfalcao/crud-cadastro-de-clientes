@@ -1,0 +1,17 @@
+{
+  "name": "cadastro-clientes",
+  "authors": [
+    "Junior Falcão <juniorfalcao.jc@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "https://github.com/jrfalcao",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
